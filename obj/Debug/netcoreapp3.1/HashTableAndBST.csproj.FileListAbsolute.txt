@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\HashTableAndBST\bin\Debug\netcoreapp3.1\HashTableAndBST.exe
+C:\Users\Hp\source\repos\HashTableAndBST\bin\Debug\netcoreapp3.1\HashTableAndBST.deps.json
+C:\Users\Hp\source\repos\HashTableAndBST\bin\Debug\netcoreapp3.1\HashTableAndBST.runtimeconfig.json
+C:\Users\Hp\source\repos\HashTableAndBST\bin\Debug\netcoreapp3.1\HashTableAndBST.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\HashTableAndBST\bin\Debug\netcoreapp3.1\HashTableAndBST.dll
+C:\Users\Hp\source\repos\HashTableAndBST\bin\Debug\netcoreapp3.1\HashTableAndBST.pdb
+C:\Users\Hp\source\repos\HashTableAndBST\obj\Debug\netcoreapp3.1\HashTableAndBST.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HashTableAndBST\obj\Debug\netcoreapp3.1\HashTableAndBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\HashTableAndBST\obj\Debug\netcoreapp3.1\HashTableAndBST.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\HashTableAndBST\obj\Debug\netcoreapp3.1\HashTableAndBST.AssemblyInfo.cs
+C:\Users\Hp\source\repos\HashTableAndBST\obj\Debug\netcoreapp3.1\HashTableAndBST.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HashTableAndBST\obj\Debug\netcoreapp3.1\HashTableAndBST.dll
+C:\Users\Hp\source\repos\HashTableAndBST\obj\Debug\netcoreapp3.1\HashTableAndBST.pdb
+C:\Users\Hp\source\repos\HashTableAndBST\obj\Debug\netcoreapp3.1\HashTableAndBST.genruntimeconfig.cache
